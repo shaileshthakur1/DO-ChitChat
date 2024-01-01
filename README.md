@@ -1,4 +1,4 @@
-# DO-ChitCHat
+# DO-ChitChat
 MERN Based fullstack Chat Application
 
 <h3> Frontend: </h3>
