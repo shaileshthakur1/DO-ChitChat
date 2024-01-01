@@ -8,11 +8,9 @@ Redux Toolkit- For State Management <br>
 RTK Query - For Making an API Call <br>
 React Router - For Navigation <br>
 Heroicons - For Icons <br>
-
 <br>
 <br>
 <br>
-
 <h3> Backend: </h3>
 
 Node Js - As Runtime Env <br>
