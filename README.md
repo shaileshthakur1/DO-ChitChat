@@ -1,7 +1,7 @@
 # DO-ChitCHat
 MERN Based fullstack Chat Application
 
-#Frontend
+<h3> Frontend: </h3>
 
 Chat-Engine-Advanced: For Chat Application <br>
 Redux Toolkit- For State Management <br>
@@ -13,7 +13,7 @@ Heroicons - For Icons <br>
 <br>
 <br>
 
-#Backend:
+<h3> Backend: </h3>
 
 Node Js - As Runtime Env <br>
 Express Js - As Backend FrameWork <br>
