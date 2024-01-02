@@ -11,8 +11,7 @@ OpenAI - For AI integration with Chat Application <br>
 
 Chat-Engine-Advanced: For Chat Application <br>
 Redux Toolkit- For State Management <br>
-RTK Query - For Making an API Call <br>     
-React Router - For Navigation <br>
+RTK Query - For Making an API Call <br> React Router - For Navigation <br>
 Heroicons - For Icons <br>
 <br>
 
